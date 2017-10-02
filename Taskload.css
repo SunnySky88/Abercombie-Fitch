@@ -1,0 +1,21 @@
+.bg{
+background-color:#d3d3d3;
+}
+.smbg{
+background-color:#f5f5f5;
+margin-bottom:0px;
+}
+.btnbg{
+    background-color:#696969; 
+    color:#fff;
+}
+.colsmbg{
+background-color:#fff; 
+height:600px;
+}
+.spacemg{
+    margin-top:25px;
+}
+input[type="text"]{
+  background-color:#f5f5f5;  
+}
